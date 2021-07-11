@@ -1,0 +1,158 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "John",
+            "last_name": "Doe",
+            "birth_date": "1991-04-04",
+            "active": true
+        },
+        {
+            "id": 2,
+            "name": "Jane",
+            "last_name": "Smith",
+            "birth_date": "1995-11-01",
+            "active": true
+        },
+        {
+            "id": 3,
+            "name": "Mike",
+            "last_name": "Collins",
+            "birth_date": "1981-01-23",
+            "active": true
+        },
+        {
+            "id": 4,
+            "name": "Phil",
+            "last_name": "Ghost",
+            "birth_date": "1977-12-18",
+            "active": false
+        },
+        {
+            "id": 5,
+            "name": "Maria",
+            "last_name": "Dominguez",
+            "birth_date": "2001-03-03",
+            "active": true
+        },
+        {
+            "id": 6,
+            "name": "Camille",
+            "last_name": "Perth",
+            "birth_date": "2002-09-15",
+            "active": true
+        }
+    ],
+    "jobs": [
+        {
+            "user": 1,
+            "title": "My first job",
+            "description": "Some lorem impsum would be great right here, but alas, we don't have any.",
+            "status": "pending"
+        },
+        {
+            "user": 1,
+            "title": "My second job",
+            "description": "Some lorem impsum would be great right here, but alas, we don't have any.",
+            "status": "pending"
+        },
+        {
+            "user": 2,
+            "title": "My first job",
+            "description": "Some lorem impsum would be great right here, but alas, we don't have any.",
+            "status": "pending"
+        },
+        {
+            "user": 2,
+            "title": "My second job",
+            "description": "Some lorem impsum would be great right here, but alas, we don't have any.",
+            "status": "pending"
+        },
+        {
+            "user": 2,
+            "title": "My third job",
+            "description": "Some lorem impsum would be great right here, but alas, we don't have any.",
+            "status": "pending"
+        },
+        {
+            "user": 3,
+            "title": "My first job",
+            "description": "Some lorem impsum would be great right here, but alas, we don't have any.",
+            "status": "pending"
+        },
+        {
+            "user": 4,
+            "title": "My first job",
+            "description": "Some lorem impsum would be great right here, but alas, we don't have any.",
+            "status": "pending"
+        },
+        {
+            "user": 4,
+            "title": "My second job",
+            "description": "Some lorem impsum would be great right here, but alas, we don't have any.",
+            "status": "pending"
+        },
+        {
+            "user": 4,
+            "title": "My third job",
+            "description": "Some lorem impsum would be great right here, but alas, we don't have any.",
+            "status": "pending"
+        },
+        {
+            "user": 4,
+            "title": "My fourth job",
+            "description": "Some lorem impsum would be great right here, but alas, we don't have any.",
+            "status": "pending"
+        },
+        {
+            "user": 4,
+            "title": "My fifth job",
+            "description": "Some lorem impsum would be great right here, but alas, we don't have any.",
+            "status": "pending"
+        },
+        {
+            "user": 5,
+            "title": "My first job",
+            "description": "Some lorem impsum would be great right here, but alas, we don't have any.",
+            "status": "pending"
+        },
+        {
+            "user": 5,
+            "title": "My second job",
+            "description": "Some lorem impsum would be great right here, but alas, we don't have any.",
+            "status": "pending"
+        },
+        {
+            "user": 5,
+            "title": "My third job",
+            "description": "Some lorem impsum would be great right here, but alas, we don't have any.",
+            "status": "pending"
+        },
+        {
+            "user": 6,
+            "title": "My first job",
+            "description": "Some lorem impsum would be great right here, but alas, we don't have any.",
+            "status": "pending"
+        },
+        {
+            "user": 6,
+            "title": "My second job",
+            "description": "Some lorem impsum would be great right here, but alas, we don't have any.",
+            "status": "pending"
+        },
+        {
+            "user": 6,
+            "title": "My third job",
+            "description": "Some lorem impsum would be great right here, but alas, we don't have any.",
+            "status": "pending"
+        }
+    ],
+    "settings": {
+        "1": "#D95138",
+        "2": "#D99B38",
+        "3": "#C3CE3A",
+        "4": "#51C942",
+        "5": "#41C4BA",
+        "6": "#388FD9"
+    }
+}
